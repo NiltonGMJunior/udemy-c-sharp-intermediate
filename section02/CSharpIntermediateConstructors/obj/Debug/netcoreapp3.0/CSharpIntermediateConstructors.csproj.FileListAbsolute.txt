@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\bin\Debug\netcoreapp3.0\CSharpIntermediateConstructors.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\obj\Debug\netcoreapp3.0\CSharpIntermediateConstructors.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\obj\Debug\netcoreapp3.0\CSharpIntermediateConstructors.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\obj\Debug\netcoreapp3.0\CSharpIntermediateConstructors.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\obj\Debug\netcoreapp3.0\CSharpIntermediateConstructors.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\CSharpIntermediateConstructors\obj\Debug\netcoreapp3.0\CSharpIntermediateConstructors.pdb

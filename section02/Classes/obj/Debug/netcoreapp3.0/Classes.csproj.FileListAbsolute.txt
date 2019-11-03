@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\bin\Debug\netcoreapp3.0\Classes.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\obj\Debug\netcoreapp3.0\Classes.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\obj\Debug\netcoreapp3.0\Classes.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\obj\Debug\netcoreapp3.0\Classes.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\obj\Debug\netcoreapp3.0\Classes.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Classes\obj\Debug\netcoreapp3.0\Classes.pdb

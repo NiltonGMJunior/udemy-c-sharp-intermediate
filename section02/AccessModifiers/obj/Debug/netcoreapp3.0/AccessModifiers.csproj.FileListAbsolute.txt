@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\bin\Debug\netcoreapp3.0\AccessModifiers.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\AccessModifiers\obj\Debug\netcoreapp3.0\AccessModifiers.pdb

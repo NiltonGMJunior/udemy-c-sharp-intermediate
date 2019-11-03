@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\bin\Debug\netcoreapp3.0\Fields.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\obj\Debug\netcoreapp3.0\Fields.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\obj\Debug\netcoreapp3.0\Fields.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\obj\Debug\netcoreapp3.0\Fields.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\obj\Debug\netcoreapp3.0\Fields.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section02\Fields\obj\Debug\netcoreapp3.0\Fields.pdb
