@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\bin\Debug\netcoreapp3.0\Casting.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\obj\Debug\netcoreapp3.0\Casting.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\obj\Debug\netcoreapp3.0\Casting.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\obj\Debug\netcoreapp3.0\Casting.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\obj\Debug\netcoreapp3.0\Casting.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Casting\obj\Debug\netcoreapp3.0\Casting.pdb

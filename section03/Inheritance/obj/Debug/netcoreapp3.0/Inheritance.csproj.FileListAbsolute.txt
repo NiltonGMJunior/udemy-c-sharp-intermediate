@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\bin\Debug\netcoreapp3.0\Inheritance.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section03\Inheritance\obj\Debug\netcoreapp3.0\Inheritance.pdb

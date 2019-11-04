@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\bin\Debug\netcoreapp3.0\Exercises01.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\obj\Debug\netcoreapp3.0\Exercises01.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\obj\Debug\netcoreapp3.0\Exercises01.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\obj\Debug\netcoreapp3.0\Exercises01.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\obj\Debug\netcoreapp3.0\Exercises01.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section04\Exercises\Exercises01\obj\Debug\netcoreapp3.0\Exercises01.pdb
