@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\bin\Debug\netcoreapp3.0\Testability.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\obj\Debug\netcoreapp3.0\Testability.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\obj\Debug\netcoreapp3.0\Testability.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\obj\Debug\netcoreapp3.0\Testability.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\obj\Debug\netcoreapp3.0\Testability.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Testability\obj\Debug\netcoreapp3.0\Testability.pdb

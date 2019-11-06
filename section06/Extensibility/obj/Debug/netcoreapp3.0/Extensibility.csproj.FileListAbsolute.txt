@@ -1,0 +1,11 @@
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\obj\Debug\netcoreapp3.0\Extensibility.csprojAssemblyReference.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\obj\Debug\netcoreapp3.0\Extensibility.AssemblyInfoInputs.cache
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\obj\Debug\netcoreapp3.0\Extensibility.AssemblyInfo.cs
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.exe
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.deps.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.runtimeconfig.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.runtimeconfig.dev.json
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\bin\Debug\netcoreapp3.0\Extensibility.pdb
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\obj\Debug\netcoreapp3.0\Extensibility.dll
+C:\Users\Nilton\Documents\GitHub\udemy-c-sharp-intermediate\section06\Extensibility\obj\Debug\netcoreapp3.0\Extensibility.pdb
